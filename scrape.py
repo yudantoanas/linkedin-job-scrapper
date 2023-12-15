@@ -1,3 +1,7 @@
+""" 
+reference: https://www.scrapingdog.com/blog/scrape-linkedin-jobs/
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import math
